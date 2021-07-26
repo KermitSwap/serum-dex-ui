@@ -47,7 +47,7 @@ const EXTERNAL_LINKS = {
   '/developer-resources': 'https://serum-academy.com/en/developer-resources/',
   '/explorer': 'https://solscan.io',
   '/srm-faq': 'https://projectserum.com/srm-faq',
-  '/home': 'https://kermitfinance.com/',
+  '/home': 'https://kermit.exchange/',
   '/nft':"https://nft.kermit.exchange/"
 };
 
